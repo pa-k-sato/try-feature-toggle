@@ -4,3 +4,6 @@ spring:
     remote:
       restart:
         enabled: true
+
+features:
+  experimental: false
