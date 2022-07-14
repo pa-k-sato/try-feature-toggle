@@ -13,5 +13,5 @@ application.yml に`features.experimental`が定義されてない場合は`fals
 
 ## テスト
 
-検討中。。。
+`SpringBootTest`に`properties`を設定するとテスト毎に環境を書き換えられる？のでリリースした場合のテストも書ける
 
